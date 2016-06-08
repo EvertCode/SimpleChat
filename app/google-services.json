@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "218204616087",
+    "firebase_url": "https://blistering-torch-1740.firebaseio.com",
+    "project_id": "blistering-torch-1740",
+    "storage_bucket": "blistering-torch-1740.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218204616087:android:1a5513c15d9aaacb",
+        "android_client_info": {
+          "package_name": "com.evertcode.simplechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218204616087-pgc2lfgcin48qe88dugeddo7cths4100.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn7M3uEAveISNjgfl1aTsFAFpz3RjYu8I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

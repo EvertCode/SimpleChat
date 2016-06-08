@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleChat</string>
+    <string name="login.meesage.email">Correo Electrónico</string>
+    <string name="login.meesage.password">Password</string>
+    <string name="login.meesage.signin">Iniciar sesión</string>
+    <string name="login.meesage.signup">Crear cuenta</string>
+</resources>
